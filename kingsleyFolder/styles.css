@@ -36,6 +36,7 @@ ul li:hover{
 .btns{
     display: flex;
     gap: 1rem;
+    text-align: center;
 }
 .btns > li{
     color: var(--orange);
